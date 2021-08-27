@@ -5,7 +5,7 @@ root.title("Entrada")
 root.geometry("800x300")
 root.resizable(0,0)
 
-conReg20 = 'Comfortaa-Regular 20'
+conReg20 = 'Comfortaa-Regular 20' # Escribir una fuente diferente a esta
 conReg40 = 'Comfortaa-Regular 40'
 comBol10 = 'Comfortaa-Bold 10'
 
